@@ -16,7 +16,4 @@ export default {
     "DELETE":{
         "/heroes/:id": DeleteHeroeById
     }
-
-
-
 }
